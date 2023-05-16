@@ -34,8 +34,8 @@ vas_id - подключаемая услуга
 
 [01. preprocessing.ipynb](https://github.com/OkhotnikovVV/Education/blob/main/GB/04_quarter/Megafon/01_preprocessing.ipynb) - предобработка данных
 
-[02. traning_model_pipline_automl.ipynb](https://github.com/OkhotnikovVV/Education/blob/main/GB/04_quarter/Megafon/02_traning_model_pipline_automl.ipynb) - модель LightAutoML
+[02. training_model_pipeline_automl.ipynb](https://github.com/OkhotnikovVV/Education/blob/main/GB/04_quarter/Megafon/02_traning_model_pipline_automl.ipynb) - модель LightAutoML
 
-[03. traning_model_pipline_catboost.ipynb](https://github.com/OkhotnikovVV/Education/blob/main/GB/04_quarter/Megafon/03_traning_model_pipline_catboost.ipynb) - модель модель c CatBoostClassifier
+[03. training_model_pipeline_catboost.ipynb](https://github.com/OkhotnikovVV/Education/blob/main/GB/04_quarter/Megafon/03_traning_model_pipline_catboost.ipynb) - модель модель c CatBoostClassifier
 
-Обученные модели располагаются в папке [data]()
+Обученные модели располагаются в папке [data](https://github.com/OkhotnikovVV/Education/tree/main/GB/04_quarter/Megafon/data)
