@@ -32,10 +32,10 @@ vas_id - подключаемая услуга
 Рекомендуемое количество слайдов – 5 – 10.
 Файл answers test.csv с результатами работы модели, презентацию, ноутбуки и резюме необходимо прикрепить ко второму уроку “курсовой проект”.
 
-[01. preprocessing.ipynb](https://github.com/OkhotnikovVV/Education/blob/main/GB/04_quarter/Megafon/01_preprocessing.ipynb) - предобработка данных
+[01. preprocessing.ipynb](https://github.com/OkhotnikovVV/Education/blob/main/GB/04_quarter/Megafon/preprocessing.ipynb) - предобработка данных
 
-[02. training_model_pipeline_automl.ipynb](https://github.com/OkhotnikovVV/Education/blob/main/GB/04_quarter/Megafon/02_traning_model_pipline_automl.ipynb) - модель LightAutoML
+[02. training_model_pipeline_automl.ipynb](https://github.com/OkhotnikovVV/Education/blob/main/GB/04_quarter/Megafon/training_model_pipeline_automl.ipynb) - модель LightAutoML
 
-[03. training_model_pipeline_catboost.ipynb](https://github.com/OkhotnikovVV/Education/blob/main/GB/04_quarter/Megafon/03_traning_model_pipline_catboost.ipynb) - модель модель c CatBoostClassifier
+[03. training_model_pipeline_catboost.ipynb](https://github.com/OkhotnikovVV/Education/blob/main/GB/04_quarter/Megafon/training_model_pipeline_catboost.ipynb) - модель модель c CatBoostClassifier
 
 Обученные модели располагаются в папке [data](https://github.com/OkhotnikovVV/Education/tree/main/GB/04_quarter/Megafon/data)
