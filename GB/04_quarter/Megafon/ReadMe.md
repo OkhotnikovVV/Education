@@ -31,3 +31,11 @@ vas_id - подключаемая услуга
 ●	Принцип составления индивидуальных предложений для выбранных абонентов.
 Рекомендуемое количество слайдов – 5 – 10.
 Файл answers test.csv с результатами работы модели, презентацию, ноутбуки и резюме необходимо прикрепить ко второму уроку “курсовой проект”.
+
+[01. preprocessing.ipynb](https://github.com/OkhotnikovVV/Education/blob/main/GB/04_quarter/Megafon/01_preprocessing.ipynb) - предобработка данных
+
+[02. traning_model_pipline_automl.ipynb](https://github.com/OkhotnikovVV/Education/blob/main/GB/04_quarter/Megafon/02_traning_model_pipline_automl.ipynb) - модель LightAutoML
+
+[03. traning_model_pipline_catboost.ipynb](https://github.com/OkhotnikovVV/Education/blob/main/GB/04_quarter/Megafon/03_traning_model_pipline_catboost.ipynb) - модель модель c CatBoostClassifier
+
+Обученные модели располагаются в папке [data]()

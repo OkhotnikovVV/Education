@@ -13,7 +13,7 @@ def prepare_dataset(data_path, features_path):
     features_df = dd.read_csv(features_path, sep="\t")
     features_df = features_df.drop('Unnamed: 0', axis=1)
 
-    users_data_df['date'] =  users_data_df['buy_time'].apply(lambda x: date.fromtimestamp(x))
+    users_data_df['date'] = users_data_df['buy_time'].apply(lambda x: date.fromtimestamp(x))
 
     # Для экспериментов возьмем не очень большой набор данных.
     # Также разделим данные по неделям.
